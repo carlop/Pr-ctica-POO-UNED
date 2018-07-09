@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DisparoGuardian()
+comment0.text=\n\ Constructor\ para\ objetos\ de\ la\ clase\ DisparoGuardian\n
+comment1.params=
+comment1.target=void\ moverArriba()
+comment1.text=\n\ Mueve\ el\ disparo\ hacia\ arriba\n
+comment2.params=
+comment2.target=java.awt.Polygon\ cuerpo()
+comment2.text=\n\ Genera\ el\ cuerpo\ de\ un\ disparo\n\ @return\ Polygon\ con\ el\ cuerpo\ del\ disparo\n
+numComments=3

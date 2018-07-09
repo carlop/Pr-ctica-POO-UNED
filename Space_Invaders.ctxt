@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Space_Invaders()
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ SpaceInvaders\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ main\r\n\ Crea\ una\ instancia\ de\ Juego\ y\ llama\ al\ m\u00E9todo\ inicio\r\n
+numComments=2

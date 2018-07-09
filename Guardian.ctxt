@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=anchoVentana\ altoVentana
+comment0.target=Guardian(int,\ int)
+comment0.text=\n\ Constructor\ para\ objetos\ de\ la\ clase\ Guardian\n
+comment1.params=
+comment1.target=void\ moverDerecha()
+comment1.text=\n\ Mueve\ a\ la\ derecha\n
+comment2.params=
+comment2.target=void\ moverIzquierda()
+comment2.text=\n\ Mueve\ a\ la\ izquierda\n
+comment3.params=
+comment3.target=java.awt.Polygon\ cuerpo()
+comment3.text=\n\ Genera\ el\ poligono\ que\ representa\ la\ nave\ Guardian\n\ @return\ Polygon\ con\ la\ forma\ del\ cuerpo\ de\ la\ nave\ Guardian\n
+numComments=4
